@@ -60,7 +60,7 @@ Artiva/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/artiva-protocol/artiva.git
+   git clone https://github.com/ceeyntia/Artiva.git
    cd artiva
    ```
 
